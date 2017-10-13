@@ -27,6 +27,9 @@ When experimenting with new features or creating a version a different language.
 
 How do the diagrams help you visualize the branch structure?
 
+ANSWER:
+You can identify how the branches and associated commits are related to each other.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
