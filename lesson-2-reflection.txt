@@ -33,5 +33,9 @@ You can identify how the branches and associated commits are related to each oth
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+ANSWER:
+It allows us to combine all the commits for each branch.
+
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
