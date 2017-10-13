@@ -21,6 +21,10 @@ to the staging area that pertain to one logical change.
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+ANSWER:
+When experimenting with new features or creating a version a different language. Branches allows you to isolate development to specific features without changing the master copy.
+
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
