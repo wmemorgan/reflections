@@ -59,5 +59,6 @@ When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
 ANSWER:
-    Fill in your answer here
+    I would make changes in a separate branch if I was making a large number of changes to the 
+    master branch or if I were adding and testing new features to the master branch.
 
